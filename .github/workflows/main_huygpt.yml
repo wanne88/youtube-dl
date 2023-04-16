@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'huygpt'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2FA486906108489EAAF591FF3002137F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0C2B891B08694B0EB13CB6BB8B7B00A4 }}
