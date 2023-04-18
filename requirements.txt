@@ -1,5 +1,5 @@
 openai
-pyChatGPT
+https://github.com/wanne88/pyChatGPT.git
 gunicorn
 Flask
 PyVirtualDisplay
