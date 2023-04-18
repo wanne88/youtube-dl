@@ -3,4 +3,4 @@ pyChatGPT
 gunicorn
 Flask
 PyVirtualDisplay
-xvfbwrapper.Xvfb
+xvfbwrapper
