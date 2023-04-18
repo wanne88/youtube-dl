@@ -2,4 +2,3 @@ openai
 pyChatGPT
 gunicorn
 Flask
-logintoken
