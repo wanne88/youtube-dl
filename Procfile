@@ -1,1 +1,1 @@
-web: gunicorn logintoken:app
+web: gunicorn loginwithtoken:app
