@@ -2,3 +2,4 @@ openai
 pyChatGPT
 gunicorn
 Flask
+PyVirtualDisplay
