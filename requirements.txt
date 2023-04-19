@@ -1,6 +1,6 @@
 openai
-pyChatGPT==0.4.3.3
 gunicorn
 Flask
 xvfbwrapper
 PyVirtualDisplay
+pyChatGPT==0.4.3.3
