@@ -3,5 +3,5 @@ gunicorn
 Flask
 xvfbwrapper
 PyVirtualDisplay
-pyChatGPt-heroku
+pyChatGPtH
 
