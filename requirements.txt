@@ -3,4 +3,4 @@ gunicorn
 Flask
 xvfbwrapper
 PyVirtualDisplay
-https://github.com/wanne88/pyChatGPT.git
+git+https://github.com/wanne88/pyChatGPT.git
