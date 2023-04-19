@@ -1,6 +1,4 @@
 openai
-https://github.com/wanne88/pyChatGPT.git
+pyChatGPT==0.4.3.3
 gunicorn
 Flask
-PyVirtualDisplay
-xvfbwrapper
