@@ -3,5 +3,5 @@ gunicorn
 Flask
 xvfbwrapper
 PyVirtualDisplay
-https://github.com/wanne88/pyChatGPT.git
+pyChatGPt-heroku
 
