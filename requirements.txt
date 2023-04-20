@@ -3,5 +3,5 @@ gunicorn
 Flask
 xvfbwrapper
 PyVirtualDisplay
-pyChatGPtH
+pyChatGPtH == 2.0
 
