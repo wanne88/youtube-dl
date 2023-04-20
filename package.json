@@ -1,0 +1,10 @@
+"chrome": {
+  "executablePath": "/app/.apt/opt/google/chrome/chrome",
+  "args": [
+    "--headless",
+    "--disable-gpu",
+    "--disable-dev-shm-usage",
+    "--no-sandbox",
+    "--remote-debugging-port=9222"
+  ]
+}
