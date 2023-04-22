@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'puretube'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F16C69EC372A4CED8E680513251FCBFA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1474A300E95F4A1A8533A666924F2AC9 }}
           package: .
