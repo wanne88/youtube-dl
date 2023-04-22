@@ -1,1 +1,1 @@
-web: gunicorn loginwithtoken:app
+web: node script.js
