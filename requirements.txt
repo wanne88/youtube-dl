@@ -1,7 +1,0 @@
-openai
-gunicorn
-Flask
-xvfbwrapper
-PyVirtualDisplay
-pyChatGPtH == 2.0
-
